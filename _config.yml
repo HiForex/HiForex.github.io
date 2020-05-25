@@ -10,7 +10,7 @@ collections:
     output: true
 name: HiForex，你好汇友
 description: 我的交易随笔2
-avatar: https://at.alicdn.com/t/font_1841890_h39xgu8y92a.svg#iconfont
+avatar: <span class="iconfont">&#xe600;</span>
 footer-links:
   dribbble: 
   email: 
