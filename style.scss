@@ -291,6 +291,13 @@ footer {
   url('https://at.alicdn.com/t/font_1841890_h39xgu8y92a.ttf') format('truetype'),
   url('https://at.alicdn.com/t/font_1841890_h39xgu8y92a.svg#iconfont') format('svg');
 }
+.iconfont {
+     font-family:"iconfont" !important;
+     font-size:16px;
+     font-style:normal;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+  		}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
